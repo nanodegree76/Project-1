@@ -35,7 +35,7 @@ I have chosen to provide a single notebook that addresses all of the above quest
 
 Since this nanodegree is an educational project from our company, we are not allowed to share details under our name publicly.
 This is why I have chosen to add the article for this project as a PDF within the GitHub project.
-[here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+[here](Project 1 - Blog Post.pdf).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
